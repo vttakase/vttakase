@@ -10,4 +10,5 @@
 - I'm a DnD 5e player (Also playing Baldur's Gate 3);
 
 You can find me at https://www.linkedin.com/in/takeotakase/
-You can see what I'm learning at my blog: https://vtdev.tk
+
+You can see what I'm studying at my blog: https://vtdev.tk
