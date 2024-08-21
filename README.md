@@ -7,4 +7,5 @@
 - I'm a DnD 5e player;
 
 You can find me at https://www.linkedin.com/in/takeotakase/
-Here's my personal blog: vtakase.com
+
+Here's my personal blog: https://vtakase.com
